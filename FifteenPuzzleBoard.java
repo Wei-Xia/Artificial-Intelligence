@@ -255,5 +255,4 @@ public class FifteenPuzzleBoard {
 				+ board[12] + " " + board[13] + " " + board[14] + " " + board[15] + " " + "\n";
 		return retVal;
 	}
-
 }
